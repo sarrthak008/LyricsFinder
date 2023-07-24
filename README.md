@@ -1,2 +1,1 @@
-# LyricsFinder
-Fetch api project
+*ʜᴇʏ* ᴛʜɪs ɪs ᴍʏ ғɪʀsᴛ ᴘʀᴏᴊᴇᴄᴛ ᴜsɪɴɢ *ᴊᴀᴠᴀsᴄʀɪᴘᴛ ғᴇᴛᴄʜ ᴀᴘɪ*🐳<br>
